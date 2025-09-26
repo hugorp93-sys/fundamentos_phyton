@@ -1,2 +1,2 @@
-# fundamentos_phyton
+# fundamentos_python
 git para compartir retos semanales 
