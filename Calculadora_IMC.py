@@ -17,5 +17,6 @@ while repetir == 'SI': #mientras while sea SI se repetira el proceso
     print('Hola '+ nombre + ' su indice de masa corporal es de: ' + str(imc)) #impreion en pantalla del resultado del imc y el nombre
     print('Usted tiene '+ composicion) # impresion de cual es la composicion
 
-    repetir = input('¿Desea calcular otro vez?SI/NO:') # preguta si desea repetir o no
+    repetir = input('¿Desea calcular otro vez?SI/NO:') # preguta si desea repetir o no para el while
+
 
